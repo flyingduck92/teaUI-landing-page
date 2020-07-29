@@ -1,5 +1,5 @@
 # TeaUILandingPage
-UI Design Bootcamp - Scrimba
+UI Design Bootcamp
 
 ### DesktopLandingPage
 ![Desktop View](https://i.imgur.com/AWMekfG.png)
