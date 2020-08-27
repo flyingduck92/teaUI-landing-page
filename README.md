@@ -1,5 +1,7 @@
 # TeaUILandingPage
-UI Design Bootcamp
+UI Design Bootcamp - Scrimba
+
+Demo - https://sekti92.github.io/teaUI-landing-page/
 
 ### DesktopLandingPage
 ![Desktop View](https://i.imgur.com/AWMekfG.png)
