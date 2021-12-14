@@ -1,9 +1,7 @@
 # TeaUILandingPage
 UI Design Bootcamp - Scrimba
 
-Demo - https://sekti92.github.io/teaUI-landing-page/
-
-Dribble - https://dribbble.com/shots/14101668-Tea-UI-Landing-Page
+Demo - https://flyingduck92.github.io/teaUI-landing-page/
 
 ### Preview
 ![All](https://i.imgur.com/q6yksP0.png)
